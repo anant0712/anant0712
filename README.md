@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Computer Science Engineering graduate and aspiring Software Developer passionate about building responsive and user-friendly web applications.<br><br>🌱 Currently learning: Django REST Framework, DSA, SQL, Javascript and React<br>💻 Skilled in: HTML, CSS,  MySQL,Python,Django<br>🎯 Interested in: Frontend Development, Full Stack Development,Android development and Problem Solving<br>📚 Currently practicing: DSA, SQL, and JavaScript projects<br>🚀 Goal: Advancing technical expertise as Software Engineer
 
 
